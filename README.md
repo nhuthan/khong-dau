@@ -2,12 +2,12 @@
 
 _Node Module dành cho người Việt_
 
-[![Tieng Viet khong dau](https://img.shields.io/badge/node-%5E0.10.40-brightgreen.svg)](//www.npmjs.com/package/khong-dau) [![Tieng Viet khong dau](https://img.shields.io/badge/npm-%5E1.4.28-brightgreen.svg)](//www.npmjs.com/package/khong-dau)
+[![Tieng Viet khong dau](https://img.shields.io/badge/node-%5E0.10.40-brightgreen.svg)](//www.npmjs.com/package/tieng-viet-khong-dau) [![Tieng Viet khong dau](https://img.shields.io/badge/npm-%5E1.4.28-brightgreen.svg)](//www.npmjs.com/package/tieng-viet-khong-dau)
 
 ## Cài đặt
 
 ```shell
-$ npm install --save khong-dau
+$ npm install --save tieng-viet-khong-dau
 ```
 
 ## Sử dụng
@@ -15,7 +15,7 @@ $ npm install --save khong-dau
 ### Đối với NodeJS
 
 ```javascript
-var tvkd = require('khong-dau');
+var tvkd = require('tieng-viet-khong-dau');
 
 console.log(tvkd.c('Hoàng Sa, Trường Sa là của Việt Nam'));
 
@@ -58,3 +58,5 @@ Chuyển chuỗi tiếng Việt cho thân thiện với các đường dẫn (li
 ## Giấy phép
 
 MIT
+
+Cloned from https://github.com/vuanhhaogk/khong-dau

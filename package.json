@@ -1,28 +1,29 @@
 {
-  "name": "khong-dau",
-  "version": "1.0.0",
-  "description": "Convert Vietnamese characters to Latin characters",
+  "name": "tieng-viet-khong-dau",
+  "version": "1.0.1",
+  "description": "Convert vietnamese string to unaccented string",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vuanhhaogk/khong-dau.git"
+    "url": "git+https://github.com/nhuthan/tieng-viet-khong-dau.git"
   },
   "keywords": [
-    "Vietnamese",
-    "Language",
-    "NodeJS",
-    "Javascript",
-    "Server",
-    "Client",
-    "Converter"
+    "vietnamese",
+    "language",
+    "nodejs",
+    "javascript",
+    "server",
+    "client",
+    "converter",
+	"unaccented"
   ],
-  "author": "Vu Anh Hao <vuanhhaogk@gmail.com> (http://xn--vanhhoblog-l4a35n.vn)",
+  "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vuanhhaogk/khong-dau/issues"
+    "url": "https://github.com/nhuthan/tieng-viet-khong-dau/issues"
   },
-  "homepage": "https://github.com/vuanhhaogk/khong-dau#readme"
+  "homepage": "https://github.com/nhuthan/tieng-viet-khong-dau#readme"
 }
